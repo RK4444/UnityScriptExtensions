@@ -1,13 +1,19 @@
 {
-	"name" : "com.rickyscompany.scriptextensions",
-	"version" : "1.0.0",
-	"displayName" : "Script Extensions",
-	"description" : "A small scriptextensions library",
-	"unity" : "2019.2",
-	"depenencies" : {
-		"keywords" : ["library", "utility", "scripting"],
-		"author" : {
-			"name" : "Tobias Rickenbacher"
-		}
-	}
+  "name": "com.rickyscompany.scriptextensions",
+  "version": "1.0.0",
+  "displayName": "Script Extensions",
+  "description": "A small scriptextensions library",
+  "unity": "2019.2",
+  "depenencies": {
+    "keywords": [
+      "library",
+      "utility",
+      "scripting"
+    ],
+    "author": {
+      "name": "Tobias Rickenbacher"
+    }
+  },
+  "hideInEditor": false,
+  "type": "library"
 }
